@@ -1,3 +1,17 @@
+## Lacework Handy Links  
+  
+#### Agentless Inventory Count
+- AWS [here](https://github.com/lacework-dev/scripts/blob/main/bash/lw_aws_inventory.sh)
+- GCP [here](https://github.com/lacework-dev/scripts/blob/main/bash/lw_gcp_exploit.sh)
+- Azure [here](https://github.com/lacework-dev/scripts/blob/main/bash/lw_azure_inventory.sh)
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/anthonygrees/anthonygrees.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
