@@ -1,6 +1,6 @@
 # My Profile
   
-Anthony Rees
+Anthony G Rees  
 Solutions Engineer @ Airia AI - Enterprise AI Simplified.  
 Greater Melbourne Area, Australia.     
   
@@ -10,19 +10,19 @@ Greater Melbourne Area, Australia.
 
 ## Experience in the IT Industry
 
-I am a seasoned technology professional with extensive experience in enterprise, cloud security, and DevOps solutions across the APAC region. My career spans multiple leadership roles where I've helped organisations modernise their infrastructure and enhance their security posture.
+I am a seasoned technology professional with extensive experience in Enterprise AI architecture, cloud security, and DevOps solutions across the APAC region. My career spans multiple leadership roles where I've helped organisations modernise their infrastructure and enhance their security posture.
 
 ### Current Role
 
 **Solutions Engineer - APAC (Sept 2024 - Current)**  
 Currently working as a Solutions Engineer at Airia AI a leading Enterprise Orchestration Platform, where I help organizations securely build, deploy, and manage AI solutions at scale. The platform seamlessly integrates with existing systems and data sources to transform workflows into intelligent AI agents while maintaining strict security and compliance standards.
-
+  
   
 
 ### Previous Leadership Roles
 
 **Field CTO - APAC at Lacework (Mar 2024 - Sept 2024)**  
-I align Lacework's technology solutions with specific client security needs. I engage closely with customers to understand their existing security infrastructure, identify vulnerabilities, and recommend tailored solutions. I serve as a vital conduit between field and product development teams, providing critical feedback to shape the product roadmap and drive innovation.
+I aligned Lacework's technology solutions with specific client security needs. I engage closely with customers to understand their existing security infrastructure, identify vulnerabilities, and recommend tailored solutions. I serve as a vital conduit between field and product development teams, providing critical feedback to shape the product roadmap and drive innovation.
 
 **Principal Solutions Engineer at Lacework (Jul 2023 - Mar 2024)**  
 I led complex projects and contributed to strategic decisions in APAC. Worked closely with Sales teams to understand customer requirements, demonstrate product capabilities, and bridge the gap between Sales and Product/Engineering teams. Regular public speaker at DevSecOps events, Conferences, and Security Podcasts.
@@ -49,6 +49,10 @@ I'm a regular speaker at industry conferences, webinares, and events. Here are s
 
 #### Recent Presentations  
   
+
+**Marcus Evans - Anthony Rees from Airia AI 2025**  
+Event interview and feedback.  
+[![Marcus Evans](https://www.youtube.com/viJfs9NDcJwy0/0.jpg)](https://www.youtube.com/watch?v=Jfs9NDcJwy0)
     
 **DOTC 2022 - "Sort Your Shift (Left) Out"**  
   
