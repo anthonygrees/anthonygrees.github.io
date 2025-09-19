@@ -26,7 +26,7 @@ Currently working as a Solutions Engineer at Airia AI a leading Enterprise Orche
 
 ### Previous Leadership Roles
 
-**Field CTO - APAC at Lacework (Mar 2024 - Sept 2024)**  
+<img src="images/lacework.png" alt="Lacework" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Field CTO - APAC at Lacework (Mar 2024 - Sept 2024)**  
 I aligned Lacework's technology solutions with specific client security needs. I engage closely with customers to understand their existing security infrastructure, identify vulnerabilities, and recommend tailored solutions. I serve as a vital conduit between field and product development teams, providing critical feedback to shape the product roadmap and drive innovation.
 
 <img src="images/lacework.png" alt="Lacework" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Principal Solutions Engineer at Lacework (Jul 2023 - Mar 2024)**  
