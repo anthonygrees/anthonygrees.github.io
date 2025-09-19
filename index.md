@@ -1,8 +1,8 @@
-# Profile
+# My Profile
   
 Anthony Rees
-Solutions Engineer @ Airia - Enterprise AI Simplified.  
-Greater Melbourne Area   
+Solutions Engineer @ Airia AI - Enterprise AI Simplified.  
+Greater Melbourne Area, Australia.     
   
 
 <img src="images/AR-bw1.jpg" alt="Anthony Rees" width="200" height="200" style="border-radius: 50%; float: right; margin-left: 20px; margin-bottom: 20px;">
