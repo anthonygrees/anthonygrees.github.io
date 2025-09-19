@@ -65,17 +65,22 @@ DevOps Talks Conference Sydney 2022
 Interview with Regional Security Solutions Engineer at Lacework
 [![DOTC 1 yr 1 Interview](https://img.youtube.com/vi/Muig2oIczkw/0.jpg)](https://youtu.be/Muig2oIczkw?si=j0ILtqO2u8FxKPP5)
   
-#### DevOps & Security Focused Talks
+#### DevOps & Security Focused Talks  
+  
+**DOTC Interview 2020**  
+  
+In today’s interview Anthony Rees from Chef Software talks about selecting the right tools to automate the enterprise. Anthony thinks organisations need to use code for everything, including images, provisioning and much more.  
+[![DOTC](https://www.youtube.com/vi/wnn5Mug3Ps/0.jpg)](https://www.youtube.com/watch?v=-wnn5Mug3Ps)
     
-**Chef Webinar - "Bring Security to DevOps"** 
-   
-OpenSource DevOps Tools that Play well Together
+**Chef Webinar - "Bring Security to DevOps"**   
+  
+OpenSource DevOps Tools that Play well Together  
 [![Chef Security WebMelbourne](https://img.youtube.com/vi/rbnvOhZMpTA/0.jpg)](https://youtu.be/rbnvOhZMpTA)
    
 
 **DevOpsDays Singapore 2018 - "Less Yak Shaving"**  
   
-Less yak shaving with more DEV and SEC in your OPS
+Less yak shaving with more DEV and SEC in your OPS  
 [![DevOpsDays [Location2]](https://img.youtube.com/vi/vknxjy-U2ac/0.jpg)](https://youtu.be/vknxjy-U2ac)
    
 
