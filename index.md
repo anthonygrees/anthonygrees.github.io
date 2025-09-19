@@ -41,7 +41,7 @@ Integrated partner technologies with Splunk's portfolio of solutions within the 
 <img src="images/chef.png" alt="Chef Software" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Regional Solutions Engineer / Architect - APAC at Chef Software (Aug 2017 - Jan 2021**  
 Worked with customers across the APAC region to define, create and deliver automation strategies for infrastructure, application and compliance using platforms including Docker, Kubernetes, Mesosphere DC/OS, OpenStack, VMware, Azure, GCP and AWS.
   
-<img src="images/hpe.png" alt="Hewlett Packard Enterprise" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Regional Cloud Presales Architect - Asia Pacific Japan at Hewlett Packard Enterprise
+<img src="images/hpe1.png" alt="Hewlett Packard Enterprise" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Regional Cloud Presales Architect - Asia Pacific Japan at Hewlett Packard Enterprise
 (May 2014 - Aug 2017)**  
 I worked with customers in the Asia Pacific and Japan region to define, create and deliver their Hybrid Cloud strategy using platforms such as Docker, Mesosphere DC/OS, OpenStack, Cloud Foundry, Azure Stack and automation solutions like Chef, Puppet and Ansible.
 
