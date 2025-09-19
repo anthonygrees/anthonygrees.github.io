@@ -4,8 +4,13 @@
 Anthony G Rees  
 Solutions Engineer @ Airia AI - Enterprise AI Simplified.  
 Greater Melbourne Area, Australia.     
-  
-  
+
+---
+
+### Quick Navigation
+[Experience](#experience-in-the-it-industry) | [Current Role](#current-role) | [Previous Roles](#previous-leadership-roles) | [Core Expertise](#core-expertise) | [Public Speaking](#public-speaking--presentations) | [Technical Portfolio](#technical-portfolio)
+
+---
 
 ## Experience in the IT Industry
 
