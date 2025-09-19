@@ -70,7 +70,7 @@ Interview with Regional Security Solutions Engineer at Lacework
 **DOTC Interview 2020**  
   
 In today’s interview Anthony Rees from Chef Software talks about selecting the right tools to automate the enterprise. Anthony thinks organisations need to use code for everything, including images, provisioning and much more.  
-[![DOTC](https://www.youtube.com/vi/wnn5Mug3Ps/0.jpg)](https://www.youtube.com/watch?v=-wnn5Mug3Ps)
+[![DOTC](https://img.youtube.com/vi/wnn5Mug3Ps/0.jpg)](https://www.youtube.com/watch?v=-wnn5Mug3Ps)
     
 **Chef Webinar - "Bring Security to DevOps"**   
   
