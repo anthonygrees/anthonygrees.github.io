@@ -5,7 +5,13 @@
   
 Solutions Engineer @ Airia AI - Enterprise AI Simplified.  
 Greater Melbourne Area, Australia.     
-
+  
+  
+As the leader of Digital, IT, Strategy or Innovation, you are acutely aware that there is a new style of business taking place - but how well placed are you to leverage AI in DevSecOps, cloud, containers, machine data and automation?   
+  
+At Airia, I help organisations leverage Enterprise AI workflows, Large Language Models, AI Agents and RAG data in a secure and scalable framework.  
+  
+  
 ---
 
 ### Quick Navigation
