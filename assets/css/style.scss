@@ -1,0 +1,32 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles to make the page wider */
+.inner {
+  max-width: 1200px !important;
+  width: 90% !important;
+}
+
+#content-wrapper {
+  max-width: 1200px !important;
+  width: 90% !important;
+}
+
+#main-content {
+  max-width: none !important;
+  width: 100% !important;
+}
+
+/* Ensure the header also scales with the wider layout */
+#header_wrap .inner {
+  max-width: 1200px !important;
+  width: 90% !important;
+}
+
+/* Adjust footer width to match */
+#footer_wrap .inner {
+  max-width: 1200px !important;
+  width: 90% !important;
+}
