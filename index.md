@@ -1,7 +1,8 @@
 # My Profile  
 <img src="images/AR-bw1.jpg" alt="Anthony Rees" width="200" height="200" style="border-radius: 50%; float: right; margin-left: 20px; margin-bottom: 20px;">
   
-Anthony G Rees  
+## Anthony G Rees  
+  
 Solutions Engineer @ Airia AI - Enterprise AI Simplified.  
 Greater Melbourne Area, Australia.     
 
@@ -18,7 +19,7 @@ I am a seasoned technology professional with extensive experience in Enterprise 
 
 ### Current Role
 
-**Solutions Engineer - APAC (Sept 2024 - Current)**  
+<img src="images/airia.png" alt="Airia AI" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Senior Solutions Engineer - APAC (Sept 2024 - Current)**  
 Currently working as a Solutions Engineer at Airia AI a leading Enterprise Orchestration Platform, where I help organizations securely build, deploy, and manage AI solutions at scale. The platform seamlessly integrates with existing systems and data sources to transform workflows into intelligent AI agents while maintaining strict security and compliance standards.
   
   
