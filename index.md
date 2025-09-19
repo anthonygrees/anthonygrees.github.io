@@ -26,7 +26,7 @@ Currently working as a Solutions Engineer at Airia AI a leading Enterprise Orche
 
 ### Previous Leadership Roles
 
-<img src="images/lacework.png" alt="Lacework" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Field CTO - APAC at Lacework (Mar 2024 - Sept 2024)**  
+**Field CTO - APAC at Lacework (Mar 2024 - Sept 2024)**  
 I aligned Lacework's technology solutions with specific client security needs. I engage closely with customers to understand their existing security infrastructure, identify vulnerabilities, and recommend tailored solutions. I serve as a vital conduit between field and product development teams, providing critical feedback to shape the product roadmap and drive innovation.
 
 <img src="images/lacework.png" alt="Lacework" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Principal Solutions Engineer at Lacework (Jul 2023 - Mar 2024)**  
@@ -40,7 +40,14 @@ Integrated partner technologies with Splunk's portfolio of solutions within the 
 
 <img src="images/chef.png" alt="Chef Software" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Regional Solutions Engineer / Architect - APAC at Chef Software (Aug 2017 - Jan 2021**  
 Worked with customers across the APAC region to define, create and deliver automation strategies for infrastructure, application and compliance using platforms including Docker, Kubernetes, Mesosphere DC/OS, OpenStack, VMware, Azure, GCP and AWS.
+  
+<img src="images/hpe.png" alt="Hewlett Packard Enterprise" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Regional Cloud Presales Architect - Asia Pacific Japan at Hewlett Packard Enterprise
+(May 2014 - Aug 2017)**  
+I worked with customers in the Asia Pacific and Japan region to define, create and deliver their Hybrid Cloud strategy using platforms such as Docker, Mesosphere DC/OS, OpenStack, Cloud Foundry, Azure Stack and automation solutions like Chef, Puppet and Ansible.
 
+In my role I use 3rd party platforms such as Amazon AWS, Google Cloud Platform GCP and Microsoft Azure public cloud and leverage automation techniques like CFN, ARM and HOT to deploy via CI/CD rigs from services such as Bamboo and Jenkins.  
+  
+  
 ### Core Expertise
 - **Cloud Security:** Multi-cloud environments, compliance automation, vulnerability management
 - **Enterprise AI:** AI orchestration platforms, intelligent agents, secure AI deployment and MCP
