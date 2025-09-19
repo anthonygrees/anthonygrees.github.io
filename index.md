@@ -26,19 +26,19 @@ Currently working as a Solutions Engineer at Airia AI a leading Enterprise Orche
 
 ### Previous Leadership Roles
 
-**Field CTO - APAC at Lacework (Mar 2024 - Sept 2024)**  
+<img src="images/lacework.png" alt="Lacework" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Field CTO - APAC at Lacework (Mar 2024 - Sept 2024)**  
 I aligned Lacework's technology solutions with specific client security needs. I engage closely with customers to understand their existing security infrastructure, identify vulnerabilities, and recommend tailored solutions. I serve as a vital conduit between field and product development teams, providing critical feedback to shape the product roadmap and drive innovation.
 
-**Principal Solutions Engineer at Lacework (Jul 2023 - Mar 2024)**  
+<img src="images/lacework.png" alt="Lacework" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Principal Solutions Engineer at Lacework (Jul 2023 - Mar 2024)**  
 I led complex projects and contributed to strategic decisions in APAC. Worked closely with Sales teams to understand customer requirements, demonstrate product capabilities, and bridge the gap between Sales and Product/Engineering teams. Regular public speaker at DevSecOps events, Conferences, and Security Podcasts.
 
-**Senior Solutions Engineer / Cloud Alliances Manager - APAC at Lacework (Aug 2021 - Jul 2023)**  
+<img src="images/lacework.png" alt="Lacework" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Senior Solutions Engineer / Cloud Alliances Manager - APAC at Lacework (Aug 2021 - Jul 2023)**  
 Specialised in Lacework's cloud security data platform that delivers automated security and compliance across multi-cloud environments. Helped innovative companies like Snowflake and Airbnb accelerate development, consolidate cloud security tools, reduce costs by 35%, and significantly reduce legitimate threats.
 
-**Senior Sales Engineer APAC - Cloud Alliances at Splunk (Feb 2021 - Aug 2021)**  
+<img src="images/splunk.png" alt="Splunk" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Senior Sales Engineer APAC - Cloud Alliances at Splunk (Feb 2021 - Aug 2021)**  
 Integrated partner technologies with Splunk's portfolio of solutions within the Global Strategic Alliances team. Collaborated with multiple teams and large cloud platform SIs such as AWS & GCP to define partner strategy and assist with architecture and development initiatives.
 
-**Regional Solutions Engineer / Architect - APAC at Chef Software (Aug 2017 - Jan 2021**  
+<img src="images/chef.png" alt="Chef Software" width="40" height="40" style="float: left; margin-right: 10px; margin-top: 2px;">**Regional Solutions Engineer / Architect - APAC at Chef Software (Aug 2017 - Jan 2021**  
 Worked with customers across the APAC region to define, create and deliver automation strategies for infrastructure, application and compliance using platforms including Docker, Kubernetes, Mesosphere DC/OS, OpenStack, VMware, Azure, GCP and AWS.
 
 ### Core Expertise
