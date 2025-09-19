@@ -1,11 +1,10 @@
-# My Profile
+# My Profile  
+<img src="images/AR-bw1.jpg" alt="Anthony Rees" width="200" height="200" style="border-radius: 50%; float: right; margin-left: 20px; margin-bottom: 20px;">
   
 Anthony G Rees  
 Solutions Engineer @ Airia AI - Enterprise AI Simplified.  
 Greater Melbourne Area, Australia.     
   
-
-<img src="images/AR-bw1.jpg" alt="Anthony Rees" width="200" height="200" style="border-radius: 50%; float: right; margin-left: 20px; margin-bottom: 20px;">
   
 
 ## Experience in the IT Industry
@@ -70,7 +69,7 @@ Interview with Regional Security Solutions Engineer at Lacework
 **DOTC Interview 2020**  
   
 In today’s interview Anthony Rees from Chef Software talks about selecting the right tools to automate the enterprise. Anthony thinks organisations need to use code for everything, including images, provisioning and much more.  
-[![DOTC](https://img.youtube.com/vi/wnn5Mug3Ps/0.jpg)](https://www.youtube.com/watch?v=-wnn5Mug3Ps)
+[![DOTC](https://img.youtube.com/vi/-wnn5Mug3Ps/0.jpg)](https://youtu.be/-wnn5Mug3Ps)
     
 **Chef Webinar - "Bring Security to DevOps"**   
   
