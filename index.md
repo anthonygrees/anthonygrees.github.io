@@ -54,6 +54,8 @@ I worked with customers in the Asia Pacific and Japan region to define, create a
 In my role I use 3rd party platforms such as Amazon AWS, Google Cloud Platform GCP and Microsoft Azure public cloud and leverage automation techniques like CFN, ARM and HOT to deploy via CI/CD rigs from services such as Bamboo and Jenkins.  
   
   
+<img src="images/IMG_3089.JPG" alt="Anthony at conference" width="40%" style="display: block; margin: 20px auto;">
+
 ### Core Expertise
 - **Cloud Security:** Multi-cloud environments, compliance automation, vulnerability management
 - **Enterprise AI:** AI orchestration platforms, intelligent agents, secure AI deployment and MCP
@@ -96,6 +98,15 @@ allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen></iframe>
   
 #### DevOps & Security Focused Talks  
+  
+**DevOps Talks Interview 2021**
+   
+Interview with Google representatives   
+<iframe width="560" height="315"
+src="https://youtube.com/embed/n1c0lETSgsw" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
   
 **DOTC Interview 2020**  
   
@@ -171,10 +182,7 @@ OpenStack Operations for Engineers
 Change the Game with HP Helion OpenStack   
 [![OSDC](https://img.youtube.com/vi/1d9dJ_vjCNQ/0.jpg)](https://youtu.be/1d9dJ_vjCNQ)
 
-**DevOps Talks Interview**
-   
-Interview with Google representatives   
-[![DevOps Talks Interview](https://img.youtube.com/vi/n1c0lETSgsw/0.jpg)](https://youtu.be/n1c0lETSgsw)
+
 
 ### Technical Portfolio
   
