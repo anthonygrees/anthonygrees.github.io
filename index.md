@@ -79,13 +79,21 @@ allowfullscreen></iframe>
 **DOTC 2022 - "Sort Your Shift (Left) Out"**  
   
 DevOps Talks Conference Sydney 2022  
-[![DOTC 1 yr 1 Presentation](https://img.youtube.com/vi/Bqw7hvKYavU/0.jpg)](https://youtu.be/Bqw7hvKYavU?si=7fSzbw1ghALZLa41)
+<iframe width="560" height="315"
+src="https://youtube.com/embed/Bqw7hvKYavU?si=7fSzbw1ghALZLa41" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
   
   
 **DOTC 2022 Interview**  
   
 Interview with Regional Security Solutions Engineer at Lacework   
-[![DOTC 1 yr 1 Interview](https://img.youtube.com/vi/Muig2oIczkw/0.jpg)](https://youtu.be/Muig2oIczkw?si=j0ILtqO2u8FxKPP5)
+<iframe width="560" height="315"
+src="https://youtube.com/embed/Muig2oIczkw?si=j0ILtqO2u8FxKPP5" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
   
 #### DevOps & Security Focused Talks  
   
@@ -97,7 +105,11 @@ In today’s interview Anthony Rees from Chef Software talks about selecting the
 **Chef Webinar - "Bring Security to DevOps"**   
   
 OpenSource DevOps Tools that Play well Together    
-[![Chef Security WebMelbourne](https://img.youtube.com/vi/rbnvOhZMpTA/0.jpg)](https://youtu.be/rbnvOhZMpTA)
+<iframe width="560" height="315"
+src="https://youtube.com/embed/rbnvOhZMpTA" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
    
 
 **DevOpsDays Singapore 2018 - "Less Yak Shaving"**  
