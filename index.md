@@ -191,3 +191,11 @@ You can explore my technical work and contributions at [GitHub](https://github.c
 ---
 
 *Passionate about helping organizations transform their technology landscape through innovative solutions in Australia, security, and automation.*
+  
+  
+<img src="images/IMG_2251.JPG" alt="Anthony at conference" width="40%" style="display: block; margin: 20px auto;">
+  
+  
+  
+  
+<img src="images/IMG_7636.jpg" alt="Anthony at conference" width="40%" style="display: block; margin: 20px auto;">
