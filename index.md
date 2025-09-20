@@ -105,11 +105,7 @@ In today’s interview Anthony Rees from Chef Software talks about selecting the
 **Chef Webinar - "Bring Security to DevOps"**   
   
 OpenSource DevOps Tools that Play well Together    
-<iframe width="560" height="315"
-src="https://youtube.com/embed/rbnvOhZMpTA" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Chef Security WebMelbourne](https://img.youtube.com/vi/rbnvOhZMpTA/0.jpg)](https://youtu.be/rbnvOhZMpTA)
    
 
 **DevOpsDays Singapore 2018 - "Less Yak Shaving"**  
