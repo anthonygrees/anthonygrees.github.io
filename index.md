@@ -70,7 +70,11 @@ I'm a regular speaker at industry conferences, webinares, and events. Here are s
 
 **Marcus Evans - Anthony Rees from Airia AI 2025**  
 Event interview and feedback.  
-[![Marcus Evans](https://img.youtube.com/vi/Jfs9NDcJwy0/0.jpg)](https://www.youtu.be/Jfs9NDcJwy0)
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Jfs9NDcJwy0" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
     
 **DOTC 2022 - "Sort Your Shift (Left) Out"**  
   
